@@ -10,9 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idotsehori&label=Profile%20views&color=0e75b6&style=flat" alt="idotsehori" /> </p>
 
-- 📫 How to reach me: **ido.tsehori@gmail.com**
-
-- ⚡ Fun fact: **I think I'm funny xD and I enjoy producing music in my spare time**
+ 📫 How to reach me: **ido.tsehori@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
